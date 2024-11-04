@@ -7,13 +7,15 @@ Big O notation is a mathematical way to describe the upper limit, or the worst-c
 
 3. **Helps with Worst-Case Analysis**: Big O typically describes the worst-case scenario, where an algorithm would take the longest time. This is important in cases where we want to guarantee the algorithm won't exceed a certain time limit.
 
-### Common Big O Notations
-- **\(O(1)\)**: Constant time. The algorithm's runtime does not change with input size.
-- **\(O(\log n)\)**: Logarithmic time. The algorithm's runtime grows slowly, even as the input size increases.
-- **\(O(n)\)**: Linear time. The runtime grows directly with the input size.
-- **\(O(n \log n)\)**: Linearithmic time. A mix of linear and logarithmic growth; often seen in efficient sorting algorithms.
-- **\(O(n^2)\)**: Quadratic time. The runtime grows proportionally to the square of the input size, common with algorithms that involve nested loops.
-- **\(O(2^n)\)**: Exponential time. The runtime doubles with each additional input, making it impractical for large inputs.
+## Common Big O Notations
+
+- **O(1)**: Constant time. The algorithm's runtime does not change with input size.
+- **O(log n)**: Logarithmic time. The algorithm's runtime grows slowly, even as the input size increases.
+- **O(n)**: Linear time. The runtime grows directly with the input size.
+- **O(n log n)**: Linearithmic time. A mix of linear and logarithmic growth; often seen in efficient sorting algorithms.
+- **O(n^2)**: Quadratic time. The runtime grows proportionally to the square of the input size, common with algorithms that involve nested loops.
+- **O(2^n)**: Exponential time. The runtime doubles with each additional input, making it impractical for large inputs.
+
 
 ### Why Big O Notation Matters
 Big O notation gives a quick way to compare algorithms and choose the one that will perform best as the input size grows. It’s an essential tool for analyzing efficiency and ensuring the chosen algorithm will run within an acceptable timeframe.
