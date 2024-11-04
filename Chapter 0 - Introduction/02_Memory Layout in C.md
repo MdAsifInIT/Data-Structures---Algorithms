@@ -1,7 +1,7 @@
 
 ## Memory Layout
 
-
+```
 High Memory Address
 +---------------------+
 |       Stack         |  (Function call data, local variables)
@@ -21,6 +21,7 @@ High Memory Address
 |     Text Segment    |  (Code, read-only)
 +---------------------+
 Low Memory Address
+```
 
 ## Memory Segment Definitions
 
