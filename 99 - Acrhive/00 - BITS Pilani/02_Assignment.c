@@ -8,8 +8,8 @@ int SI(int p, int r, int t){
     return ((p*r*t)/100);
 }
 
-int power(int, int);
-int power(int a, int b){
+int powerof(int, int);
+int powerof(int a, int b){
     int c = a;
     for (int i = 1; i < b; i++)
     {
@@ -29,11 +29,11 @@ int main(){
     int interest = SI(p,r,t);
     printf("%d \n", interest);
     
-    int base = 2;
+    int base = 4;
     int exponent = 8;
-    int ans = power(base,exponent);
+    int sol = powerof(base,exponent);
 
-    printf("%d \n", ans);
+    printf("%d \n", sol);
     
 
 
