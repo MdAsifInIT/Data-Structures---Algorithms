@@ -3,7 +3,7 @@
 
 int main()
 {
-    int n1 = 3, n2 = 4, n3, n4;
+    int n1 = 4, n2 = 5, n3, n4;
     unsigned int u1 = 2, u2, u3, u4;
     char c1, c2, c3;
 
@@ -25,9 +25,9 @@ int main()
     printf("n4 = %d \n", n4);
 
     /* Initialize n1, n2, and n3 */
-    n1 = 3;
-    n2 = 4;
-    n3 = 5;
+    n1 = 4;
+    n2 = 5;
+    n3 = 6;
 
     /* Conditional Expressions */
     // Check whether n1, n2, and n3 form sides of a right triangle;
@@ -55,8 +55,8 @@ int main()
     u2 = (++u1, u1 + 5); // Correct as is
 
     /* Initialize characters c1 and c2 */
-    c1 = 'a';
-    c2 = 'E';
+    c1 = 'D';
+    c2 = 'd';
 
     /* Check whether two characters are the same (case-insensitive i.e. uppercase or lowercase does not matter) */
     if (toupper(c1) == toupper(c2))
@@ -69,7 +69,7 @@ int main()
     }
 
     /* Initialize character c1 */
-    c1 = '$';
+    c1 = '@';
 
     /* Check that it is neither whitespace (space, tab or newline) nor alphanumeric */
     if (!isalnum(c1) && c1 != ' ' && c1 != '\t' && c1 != '\n')
@@ -78,7 +78,7 @@ int main()
     }
 
     /* Initialize character c2 */
-    c2 = 'O';
+    c2 = 'A';
 
     /* Check whether it is a vowel (in lower-case or in upper-case). */
     if (c2 == 'a' || c2 == 'e' || c2 == 'i' || c2 == 'o' || c2 == 'u' ||
