@@ -89,7 +89,7 @@ int main()
     } while (index < length);
 
     printf("\nEnter the number of terms for Fibonacci series: ");
-    int terms = 15;
+    int terms = 8;
     generateFibonacci(terms);
 
     return 0;
