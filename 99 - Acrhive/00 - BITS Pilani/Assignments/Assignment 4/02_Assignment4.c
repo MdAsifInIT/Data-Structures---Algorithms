@@ -21,7 +21,6 @@ int main() {
     printf("Enter the second string: ");
     fgets(str2, sizeof(str2), stdin);
 
-    // Remove newline characters from fgets input
     str1[strcspn(str1, "\n")] = '\0';
     str2[strcspn(str2, "\n")] = '\0';
 
