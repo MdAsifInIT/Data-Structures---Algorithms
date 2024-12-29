@@ -11,6 +11,7 @@ int compareStrings(const char* str1, const char* str2) {
         str2++;
     }
     return *str1 - *str2;
+}
 
 int main() {
     char str1[100], str2[100];
@@ -20,6 +21,7 @@ int main() {
     printf("Enter the second string: ");
     fgets(str2, sizeof(str2), stdin);
 
+    // Remove newline characters from fgets input
     str1[strcspn(str1, "\n")] = '\0';
     str2[strcspn(str2, "\n")] = '\0';
 
