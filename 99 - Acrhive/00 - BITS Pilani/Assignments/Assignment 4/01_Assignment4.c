@@ -12,8 +12,8 @@ int main() {
     fgets(str, sizeof(str), stdin);
 
     for (int i = 0; str[i] != '\0'; i++) {
-        char ch = tolower(str[i]); // Convert to lowercase for easier comparison
-        if ((ch >= 'a' && ch <= 'z')) { // Check if character is a letter
+        char ch = tolower(str[i]);
+        if ((ch >= 'a' && ch <= 'z')) {
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
                 vowels++;
             else
