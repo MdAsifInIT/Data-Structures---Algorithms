@@ -1,7 +1,8 @@
+// 3. Write a program to count the number of times a specific element appears in an array
 #include <stdio.h>
 
 int main() {
-    int arr[] = {1, 2, 2, 3, 3, 3, 4, 4, 4, 4};
+    int arr[] = {9, 8, 2, 2, 9, 3, 7, 8, 0, 1};
     int n = sizeof(arr) / sizeof(arr[0]);
     int target, count = 0;
 
