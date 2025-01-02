@@ -1,5 +1,4 @@
-// 3. Write a C program to calculate the length of a string without using the strlen()
-// function and using strlen() as well.
+// 3. Write a C program to calculate the length of a string without using the strlen() function and using strlen() as well.
 
 #include <stdio.h>
 #include <string.h> // For strlen()
