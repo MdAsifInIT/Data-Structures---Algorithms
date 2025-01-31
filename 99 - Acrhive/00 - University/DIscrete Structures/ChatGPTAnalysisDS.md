@@ -1,22 +1,20 @@
 # Discrete Structures (DS) Exam Analysis
 
-## 1. Including MID SEM DS
+## 1. Including MID SEM DS (Total: 55 Questions)
 
 ### Topic-Wise Percentage Distribution & Question Count
 
-(Total marks considered: 40% weightage for **Mid-Sem** + **End-Sem**)
-
 | **Topic**                      | **No. of Questions** | **Percentage Contribution** |
 | ------------------------------ | -------------------- | --------------------------- |
-| **Logic & Proofs**             | 5                    | 16%                         |
-| **Relations & Hasse Diagrams** | 4                    | 13%                         |
-| **Recurrence Relations**       | 4                    | 13%                         |
-| **Graph Theory**               | 6                    | 20%                         |
-| **Trees & Traversals**         | 3                    | 10%                         |
-| **Combinatorics & Counting**   | 2                    | 6%                          |
-| **Cryptography (RSA)**         | 3                    | 10%                         |
-| **Functions & Isomorphism**    | 3                    | 10%                         |
-| **Total**                      | 30                   | 100%                        |
+| **Logic & Proofs**             | 9                    | 16%                         |
+| **Relations & Hasse Diagrams** | 7                    | 13%                         |
+| **Recurrence Relations**       | 7                    | 13%                         |
+| **Graph Theory**               | 11                   | 20%                         |
+| **Trees & Traversals**         | 5                    | 9%                          |
+| **Combinatorics & Counting**   | 4                    | 7%                          |
+| **Cryptography (RSA)**         | 6                    | 11%                         |
+| **Functions & Isomorphism**    | 6                    | 11%                         |
+| **Total**                      | 55                   | 100%                        |
 
 ### Topic-Wise Importance Rating (out of 100)
 
@@ -27,29 +25,27 @@
 | **Recurrence Relations**       | 75                    |
 | **Graph Theory**               | 90                    |
 | **Trees & Traversals**         | 70                    |
-| **Combinatorics & Counting**   | 60                    |
+| **Combinatorics & Counting**   | 65                    |
 | **Cryptography (RSA)**         | 80                    |
 | **Functions & Isomorphism**    | 70                    |
 
 ---
 
-## 2. Excluding MID SEM DS
+## 2. Excluding MID SEM DS (Total: 38 Questions)
 
 ### Topic-Wise Percentage Distribution & Question Count
 
-(Total marks considered: 40% weightage for **End-Sem Only**)
-
 | **Topic**                      | **No. of Questions** | **Percentage Contribution** |
 | ------------------------------ | -------------------- | --------------------------- |
-| **Logic & Proofs**             | 2                    | 10%                         |
-| **Relations & Hasse Diagrams** | 3                    | 15%                         |
-| **Recurrence Relations**       | 3                    | 15%                         |
-| **Graph Theory**               | 4                    | 20%                         |
-| **Trees & Traversals**         | 2                    | 10%                         |
-| **Combinatorics & Counting**   | 2                    | 10%                         |
-| **Cryptography (RSA)**         | 2                    | 10%                         |
-| **Functions & Isomorphism**    | 2                    | 10%                         |
-| **Total**                      | 20                   | 100%                        |
+| **Logic & Proofs**             | 5                    | 13%                         |
+| **Relations & Hasse Diagrams** | 6                    | 16%                         |
+| **Recurrence Relations**       | 5                    | 13%                         |
+| **Graph Theory**               | 8                    | 21%                         |
+| **Trees & Traversals**         | 4                    | 10%                         |
+| **Combinatorics & Counting**   | 3                    | 8%                          |
+| **Cryptography (RSA)**         | 4                    | 11%                         |
+| **Functions & Isomorphism**    | 3                    | 8%                          |
+| **Total**                      | 38                   | 100%                        |
 
 ### Topic-Wise Importance Rating (out of 100)
 
@@ -68,24 +64,28 @@
 
 ## 3. Difference Between the Two
 
-| **Aspect**                   | **Including MID SEM** | **Excluding MID SEM** |
-| ---------------------------- | --------------------- | --------------------- |
-| **Total Questions Analyzed** | 30                    | 20                    |
-| **Logic & Proofs Emphasis**  | Higher (5 Qs)         | Lower (2 Qs)          |
-| **Graph Theory Focus**       | Strong (6 Qs)         | Still strong (4 Qs)   |
-| **Recurrence Relations**     | Significant (4 Qs)    | Slightly Lower (3 Qs) |
-| **RSA Cryptography**         | Higher (3 Qs)         | Lower (2 Qs)          |
-| **Coverage of Topics**       | Broader               | More Focused          |
+| **Aspect**                   | **Including MID SEM (55 Qs)** | **Excluding MID SEM (38 Qs)** |
+| ---------------------------- | ----------------------------- | ----------------------------- |
+| **Total Questions Analyzed** | 55                            | 38                            |
+| **Logic & Proofs Emphasis**  | Higher (9 Qs)                 | Lower (5 Qs)                  |
+| **Graph Theory Focus**       | Strong (11 Qs)                | Still strong (8 Qs)           |
+| **Recurrence Relations**     | Significant (7 Qs)            | Slightly Lower (5 Qs)         |
+| **RSA Cryptography**         | Higher (6 Qs)                 | Lower (4 Qs)                  |
+| **Coverage of Topics**       | Broader                       | More Focused                  |
 
-### **Key Takeaways**
+---
 
-- **Including Mid-Sem**: More evenly distributed across topics, with higher emphasis on **Logic, Graph Theory, and Cryptography**.
-- **Excluding Mid-Sem**: **Graph Theory & Recurrence Relations** remain important, but **Logic & Proofs are slightly reduced in weightage**.
-- **Graph Theory remains the most important topic in both cases!**
+## 🔥 Key Takeaways
+
+- **Graph Theory** is the most **dominant** topic in both cases and should be a top priority.
+- **Including MID SEM DS** makes the exam **broader**, emphasizing **Logic, Graph Theory, and Cryptography**.
+- **Excluding MID SEM DS**, the exam focuses more on **Graph Theory, Recurrence Relations, and Relations/Hasse Diagrams**.
+- If preparing for **both Mid-Sem & End-Sem**, focus on **Logic, Graph Theory, and Cryptography**.
+- If **only End-Sem**, prioritize **Graph Theory, Recurrence Relations, and Relations/Hasse Diagrams**.
 
 ---
 
 ## 📌 Conclusion
 
-If preparing for **both Mid-Sem & End-Sem**, focus on **Logic, Graph Theory, and Cryptography**.  
-If **only End-Sem**, prioritize **Graph Theory, Recurrence Relations, and Relations/Hasse Diagrams**.
+- **If you have limited time**, prioritize **Graph Theory, Recurrence Relations, and Logic**.
+- **If aiming for full coverage**, balance your preparation across all topics while giving extra time to **Graph Theory & Logic**.
