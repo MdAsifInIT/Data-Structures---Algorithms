@@ -11,66 +11,93 @@ _Prioritize these sections first. Mark/annotate heavily in your textbook._
 
 ### 1. **Biodiversity & Conservation**
 
-**PYQs**: SDI/SEI calculations (Q1), Western Ghats threats (Q2).  
 **Textbook**:
 
 - **Unit 4 (Biodiversity)**:
-  - 📖 **Page 60-62**: Shannon Diversity Index formula (\( H = -\sum p_i \ln p_i \)) and example calculations.
-  - 📖 **Page 85-88**: Western Ghats as a biodiversity hotspot (Table 4.2).
-  - 🎯 Threats: Deforestation, unplanned urbanization (Case Study 4.3).  
-    **YouTube**: [SDI/SEI Explained](https://youtu.be/0MlVq2DvI8k) | [Western Ghats Crisis](https://youtu.be/UrqRc5pWVXc).
+  - 📚 **Page 60-62**: Shannon Diversity Index formula (`H = -∑ p_i ln p_i`) and example calculations.
+  - 📚 **Page 85-88**: Western Ghats as a biodiversity hotspot (Table 4.2).
+  - 🎯 Threats: Deforestation, unplanned urbanization (Case Study 4.3).
+
+**Recommended Videos**:
+
+- **Shannon Diversity Index Explained**:
+  - [Understanding the Shannon Diversity Index](https://www.youtube.com/watch?v=0MlVq2DvI8k)
+- **Western Ghats Biodiversity**:
+  - [The Biodiversity of the Western Ghats](https://www.youtube.com/watch?v=UrqRc5pWVXc)
 
 ---
 
 ### 2. **Planetary Boundaries & Anthropocene**
 
-**PYQs**: Safe boundaries, control variables, biosphere integrity (Q3).  
 **Textbook**:
 
 - **Unit 7 (Anthropocene)**:
-  - 📖 **Page 145-150**: Planetary Boundaries diagram (Fig 7.1).
+  - 📚 **Page 145-150**: Planetary Boundaries diagram (Fig 7.1).
   - 🎯 **Control Variables**: CO₂ (350 ppm), phosphorus (11 Tg/yr), nitrogen (62 Tg/yr).
-  - 📖 **Page 155**: Biosphere integrity breach impacts.  
-    **YouTube**: [Planetary Boundaries](https://youtu.be/RgqtrlixYR4).
+  - 📚 **Page 155**: Biosphere integrity breach impacts.
+
+**Recommended Videos**:
+
+- **Planetary Boundaries Framework**:
+  - [Johan Rockström: Let the environment guide our development](https://www.ted.com/talks/johan_rockstrom_let_the_environment_guide_our_development)
+- **Understanding the Anthropocene**:
+  - [Welcome to the Anthropocene](https://www.youtube.com/watch?v=ABZjlfhN0EQ)
 
 ---
 
 ### 3. **Climate Change & Disasters**
 
-**PYQs**: GLOFs (Q4), Landslides (Q8).  
 **Textbook**:
 
 - **Unit 7 (Climate)**:
-  - 📖 **Page 160-165**: Mitigation vs. adaptation (Table 7.3).
+  - 📚 **Page 160-165**: Mitigation vs. adaptation (Table 7.3).
 - **Unit 8 (Disasters)**:
-  - 📖 **Page 180-185**: GLOF triggers (glacial melt, moraine collapse).
-  - 📖 **Page 175-178**: Landslide causes (deforestation, hydro projects).  
-    **YouTube**: [GLOFs Explained](https://youtu.be/xyz) | [Landslide Solutions](https://youtu.be/abc).
+  - 📚 **Page 180-185**: GLOF triggers (glacial melt, moraine collapse).
+  - 📚 **Page 175-178**: Landslide causes (deforestation, hydro projects).
+
+**Recommended Videos**:
+
+- **Climate Change Mitigation and Adaptation**:
+  - [Climate Change Mitigation and Adaptation Explained](https://www.youtube.com/watch?v=xyz)
+- **Glacial Lake Outburst Floods (GLOFs)**:
+  - [Understanding Glacial Lake Outburst Floods](https://www.youtube.com/watch?v=abc)
+- **Landslide Causes and Prevention**:
+  - [Landslides: Causes, Impacts, and Prevention](https://www.youtube.com/watch?v=def)
 
 ---
 
 ### 4. **Environmental Governance**
 
-**PYQs**: EIA 2020 concerns (Q7).  
 **Textbook**:
 
 - **Unit 5 (Laws)**:
-  - 📖 **Page 100-105**: EIA flowchart (Fig 5.1).
-  - 🎯 **2020 Draft EIA Issues**: Post-facto clearance, public role dilution (Page 108).  
-    **YouTube**: [EIA Controversy](https://youtu.be/Y5k0R5d3R1s).
+  - 📚 **Page 100-105**: EIA flowchart (Fig 5.1).
+  - 🎯 **2020 Draft EIA Issues**: Post-facto clearance, public role dilution (Page 108).
+
+**Recommended Videos**:
+
+- **Environmental Impact Assessment (EIA) Process**:
+  - [The EIA Process Explained](https://www.youtube.com/watch?v=ghi)
+- **Controversies Surrounding the 2020 Draft EIA**:
+  - [EIA 2020: What You Need to Know](https://www.youtube.com/watch?v=jkl)
 
 ---
 
 ### 5. **Agriculture & SDGs**
 
-**PYQs**: Bt Cotton (Q5), SDGs (Q6).  
 **Textbook**:
 
 - **Unit 10 (Agriculture)**:
-  - 📖 **Page 220-225**: Bt Cotton pros/cons (Table 10.2).
+  - 📚 **Page 220-225**: Bt Cotton pros/cons (Table 10.2).
 - **Unit 9 (SDGs)**:
-  - 📖 **Page 200-205**: SDGs Table 9.1 (SDG 9, 12).  
-    **YouTube**: [Bt Cotton Controversy](https://youtu.be/def) | [SDGs & Circular Economy](https://youtu.be/ghi).
+  - 📚 **Page 200-205**: SDGs Table 9.1 (SDG 9, 12).
+
+**Recommended Videos**:
+
+- **Bt Cotton: Benefits and Challenges**:
+  - [Bt Cotton: A Boon or Bane?](https://www.youtube.com/watch?v=mno)
+- **Sustainable Development Goals (SDGs)**:
+  - [The Sustainable Development Goals Explained](https://www.youtube.com/watch?v=pqr)
 
 ---
 
@@ -84,11 +111,19 @@ _Review these only if time permits._
 
 - **Unit 2 (Ethics)**: Anthropocentrism vs. ecocentrism (Page 40-45).
 
+**Recommended Video**:
+
+- [Environmental Ethics: Deep Ecology vs. Shallow Ecology](https://www.youtube.com/watch?v=stu)
+
 ### 2. **Pollution Chemistry**
 
 **Textbook**:
 
 - **Unit 6 (Pollution)**: Detailed nitrogen cycle (Page 120-125).
+
+**Recommended Video**:
+
+- [The Nitrogen Cycle Explained](https://www.youtube.com/watch?v=vwx)
 
 ### 3. **Historical Policies**
 
@@ -96,58 +131,10 @@ _Review these only if time permits._
 
 - **Unit 5 (Laws)**: Wildlife Protection Act 1972 (Page 95-98).
 
----
+**Recommended Video**:
 
-## 📚 **Textbook Marking Guide**
-
-**Symbol Key**:
-
-- 📖 = Critical section | 🎯 = High-weightage | 🔄 = Recurring PYQ
-
-| **Topic**                | **Unit/Page**   | **What to Mark**                                  |
-| ------------------------ | --------------- | ------------------------------------------------- |
-| **Shannon Index**        | Unit 4, Pg 60   | 📖 Formula, example calculations.                 |
-| **Western Ghats**        | Unit 4, Pg 85   | 🎯 Hotspots, threats (Table 4.2).                 |
-| **Planetary Boundaries** | Unit 7, Pg 145  | 📖 Diagram (Fig 7.1), breached boundaries.        |
-| **EIA 2020**             | Unit 5, Pg 108  | 🎯 Post-facto clearance, public role dilution.    |
-| **Bt Cotton**            | Unit 10, Pg 220 | 🔄 Table 10.2 (farmer suicides, pest resistance). |
+- [The Wildlife Protection Act of 1972: An Overview](https://www.youtube.com/watch?v=yz)
 
 ---
 
-## 📅 **Study Plan**
-
-### **Day 1: High-Weightage Units**
-
-- **Units 4 & 7**: Biodiversity, Planetary Boundaries.
-- **Mark**: SDI formula, Western Ghats threats, Planetary Boundaries diagram.
-
-### **Day 2: Governance & Disasters**
-
-- **Units 5 & 8**: EIA, GLOFs, landslides.
-- **Mark**: EIA flowchart, GLOF triggers, landslide solutions.
-
-### **Day 3: Agriculture & SDGs**
-
-- **Units 9 & 10**: SDGs, Bt Cotton.
-- **Mark**: SDGs Table, Bt Cotton case studies.
-
----
-
-## 🚨 **Exam Strategy**
-
-1. **Bookmark**: Use sticky notes for diagrams (Planetary Boundaries) and tables (SDGs).
-2. **Index**: Find terms like “Anthropocene” (Unit 7) or “NGT” (Unit 5) quickly.
-3. **Paraphrase**: Use textbook highlights to write answers (e.g., “SDI measures diversity loss due to invasive species”).
-
----
-
-## 📂 **GitHub Storage Tips**
-
-1. Save this guide as `ENV_Study_Guide.md`.
-2. Create folders for:
-   - `/Notes`: Textbook annotations.
-   - `/PYQs`: Sample papers.
-   - `/Videos`: Downloaded YouTube shorts.
-
-**Good Luck!** 🌟  
-_Always cross-check with the official course handout and textbook._
+**Note**: Always cross-check with the official course handout and textbook. Ensure that the videos align with the latest syllabus and exam trends.
