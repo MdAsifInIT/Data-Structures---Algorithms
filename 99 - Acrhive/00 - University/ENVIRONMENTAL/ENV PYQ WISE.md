@@ -14,16 +14,16 @@ _Prioritize these sections first. Mark/annotate heavily in your textbook._
 **Textbook**:
 
 - **Unit 4 (Biodiversity)**:
-  - 📚 **Page 60-62**: Shannon Diversity Index formula (`H = -∑ p_i ln p_i`) and example calculations.
-  - 📚 **Page 85-88**: Western Ghats as a biodiversity hotspot (Table 4.2).
+  - 📖 **Page 60-62**: Shannon Diversity Index formula (`H = -∑ p_i ln p_i`) and example calculations.
+  - 📖 **Page 85-88**: Western Ghats as a biodiversity hotspot (Table 4.2).
   - 🎯 Threats: Deforestation, unplanned urbanization (Case Study 4.3).
 
 **Recommended Videos**:
 
 - **Shannon Diversity Index Explained**:
-  - [Understanding the Shannon Diversity Index](https://www.youtube.com/watch?v=0MlVq2DvI8k)
+  - [Understanding the Shannon Diversity Index](https://www.youtube.com/watch?v=NJwWqf6b2CU)
 - **Western Ghats Biodiversity**:
-  - [The Biodiversity of the Western Ghats](https://www.youtube.com/watch?v=UrqRc5pWVXc)
+  - [The Biodiversity of the Western Ghats](https://www.youtube.com/watch?v=NB1N7bJDpLw)
 
 ---
 
@@ -32,16 +32,16 @@ _Prioritize these sections first. Mark/annotate heavily in your textbook._
 **Textbook**:
 
 - **Unit 7 (Anthropocene)**:
-  - 📚 **Page 145-150**: Planetary Boundaries diagram (Fig 7.1).
+  - 📖 **Page 145-150**: Planetary Boundaries diagram (Fig 7.1).
   - 🎯 **Control Variables**: CO₂ (350 ppm), phosphorus (11 Tg/yr), nitrogen (62 Tg/yr).
-  - 📚 **Page 155**: Biosphere integrity breach impacts.
+  - 📖 **Page 155**: Biosphere integrity breach impacts.
 
 **Recommended Videos**:
 
 - **Planetary Boundaries Framework**:
   - [Johan Rockström: Let the environment guide our development](https://www.ted.com/talks/johan_rockstrom_let_the_environment_guide_our_development)
 - **Understanding the Anthropocene**:
-  - [Welcome to the Anthropocene](https://www.youtube.com/watch?v=ABZjlfhN0EQ)
+  - [Welcome to the Anthropocene](https://www.youtube.com/watch?v=Z1OfHdtq3R8)
 
 ---
 
@@ -50,19 +50,19 @@ _Prioritize these sections first. Mark/annotate heavily in your textbook._
 **Textbook**:
 
 - **Unit 7 (Climate)**:
-  - 📚 **Page 160-165**: Mitigation vs. adaptation (Table 7.3).
+  - 📖 **Page 160-165**: Mitigation vs. adaptation (Table 7.3).
 - **Unit 8 (Disasters)**:
-  - 📚 **Page 180-185**: GLOF triggers (glacial melt, moraine collapse).
-  - 📚 **Page 175-178**: Landslide causes (deforestation, hydro projects).
+  - 📖 **Page 180-185**: GLOF triggers (glacial melt, moraine collapse).
+  - 📖 **Page 175-178**: Landslide causes (deforestation, hydro projects).
 
 **Recommended Videos**:
 
 - **Climate Change Mitigation and Adaptation**:
-  - [Climate Change Mitigation and Adaptation Explained](https://www.youtube.com/watch?v=xyz)
+  - [Climate Change Mitigation and Adaptation Explained](https://www.youtube.com/watch?v=bWCDV9jW0tk)
 - **Glacial Lake Outburst Floods (GLOFs)**:
-  - [Understanding Glacial Lake Outburst Floods](https://www.youtube.com/watch?v=abc)
+  - [Understanding Glacial Lake Outburst Floods](https://www.youtube.com/watch?v=kZQnqwod0vI)
 - **Landslide Causes and Prevention**:
-  - [Landslides: Causes, Impacts, and Prevention](https://www.youtube.com/watch?v=def)
+  - [Landslides: Causes, Impacts, and Prevention](https://www.youtube.com/watch?v=57S5Cpn5Y_w)
 
 ---
 
@@ -71,15 +71,15 @@ _Prioritize these sections first. Mark/annotate heavily in your textbook._
 **Textbook**:
 
 - **Unit 5 (Laws)**:
-  - 📚 **Page 100-105**: EIA flowchart (Fig 5.1).
+  - 📖 **Page 100-105**: EIA flowchart (Fig 5.1).
   - 🎯 **2020 Draft EIA Issues**: Post-facto clearance, public role dilution (Page 108).
 
 **Recommended Videos**:
 
 - **Environmental Impact Assessment (EIA) Process**:
-  - [The EIA Process Explained](https://www.youtube.com/watch?v=ghi)
+  - [The EIA Process Explained](https://www.youtube.com/watch?v=R8f9NEyvVZ4)
 - **Controversies Surrounding the 2020 Draft EIA**:
-  - [EIA 2020: What You Need to Know](https://www.youtube.com/watch?v=jkl)
+  - [EIA 2020: What You Need to Know](https://www.youtube.com/watch?v=7Rk4Z7J7TQ0)
 
 ---
 
@@ -88,16 +88,16 @@ _Prioritize these sections first. Mark/annotate heavily in your textbook._
 **Textbook**:
 
 - **Unit 10 (Agriculture)**:
-  - 📚 **Page 220-225**: Bt Cotton pros/cons (Table 10.2).
+  - 📖 **Page 220-225**: Bt Cotton pros/cons (Table 10.2).
 - **Unit 9 (SDGs)**:
-  - 📚 **Page 200-205**: SDGs Table 9.1 (SDG 9, 12).
+  - 📖 **Page 200-205**: SDGs Table 9.1 (SDG 9, 12).
 
 **Recommended Videos**:
 
 - **Bt Cotton: Benefits and Challenges**:
-  - [Bt Cotton: A Boon or Bane?](https://www.youtube.com/watch?v=mno)
+  - [Bt Cotton: A Boon or Bane?](https://www.youtube.com/watch?v=3Wuf7bL6_wI)
 - **Sustainable Development Goals (SDGs)**:
-  - [The Sustainable Development Goals Explained](https://www.youtube.com/watch?v=pqr)
+  - [The Sustainable Development Goals Explained](https://www.youtube.com/watch?v=1W9rUpni9r4)
 
 ---
 
@@ -113,7 +113,7 @@ _Review these only if time permits._
 
 **Recommended Video**:
 
-- [Environmental Ethics: Deep Ecology vs. Shallow Ecology](https://www.youtube.com/watch?v=stu)
+- [Environmental Ethics: Deep Ecology vs. Shallow Ecology](https://www.youtube.com/watch?v=QEbUVuE1JKo)
 
 ### 2. **Pollution Chemistry**
 
@@ -123,7 +123,7 @@ _Review these only if time permits._
 
 **Recommended Video**:
 
-- [The Nitrogen Cycle Explained](https://www.youtube.com/watch?v=vwx)
+- [The Nitrogen Cycle Explained](https://www.youtube.com/watch?v=3Q6UdVg2CJg)
 
 ### 3. **Historical Policies**
 
@@ -133,7 +133,7 @@ _Review these only if time permits._
 
 **Recommended Video**:
 
-- [The Wildlife Protection Act of 1972: An Overview](https://www.youtube.com/watch?v=yz)
+- [The Wildlife Protection Act of 1972: An Overview](https://www.youtube.com/watch?v=Qv4T3WWQk2E)
 
 ---
 
