@@ -12,6 +12,7 @@ struct Faculty
         struct
         {
             int hours;
+
             int credits;
         } cp;
         struct
