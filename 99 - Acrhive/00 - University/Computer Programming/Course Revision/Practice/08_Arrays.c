@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n, threshold, sum = 0;
+    int n, threshold = 5, sum = 0;
     printf("Enter the total number of items. \n");
     scanf("%d", &n);
 
@@ -29,7 +29,7 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        if (arr[i] < 5)
+        if (arr[i] < threshold)
         {
             printf("Item %d is below threshold, Quantity: %d \n", (i + 1), arr[i]);
         }
