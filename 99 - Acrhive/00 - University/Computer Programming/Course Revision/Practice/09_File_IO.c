@@ -9,46 +9,43 @@ int main()
     char vowels[] = "aeiouAEIOU";
     int count = 0;
 
-    // Prompt user for filename
-    printf("Enter the filename: ");
+    printf("Enter the name of the file: \n");
     scanf("%s", filename);
 
-    // Open the file in read mode
     fp = fopen(filename, "r");
+
     if (fp == NULL)
     {
-        printf("Could not open file.\n");
+        printf("The file does not exist!\n");
         return 1;
     }
 
-    // Read each word from the file until EOF
     while (fscanf(fp, "%99s", word) == 1)
     {
         int len = strlen(word);
 
-        // Remove any trailing punctuation at the end of the word
+        // Remove punctuation from the end
         while (len > 0 && ispunct((unsigned char)word[len - 1]))
         {
             word[len - 1] = '\0';
             len--;
         }
 
-        // Check if the last character is a vowel
+        // Ensure we don't access an empty string
         if (len > 0)
         {
-            char last = word[len - 1];
-            if (strchr(vowels, last) != NULL)
+            char letter = word[len - 1]; // Get the last character after punctuation removal
+
+            if (strchr(vowels, letter) != NULL)
             {
                 count++;
             }
         }
     }
 
-    // Close the file
-    fclose(fp);
+    fclose(fp); // Close the file after reading
 
-    // Display the result
-    printf("Number of words ending with a vowel: %d\n", count);
+    printf("%d words end with vowels.\n", count);
 
     return 0;
 }
