@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-float power(float, int);
 float power(float a, int b)
 {
     int c = a;

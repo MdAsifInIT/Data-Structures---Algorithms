@@ -29,6 +29,6 @@ void hpir(int n)
 
 int main()
 {
-    hpir(6);
+    hpir(4);
     return 0;
 }

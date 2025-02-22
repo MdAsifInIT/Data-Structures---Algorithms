@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int main()
 {
@@ -11,8 +10,6 @@ int main()
     {
         n = -n;
     }
-
-    printf("%d \n", n);
 
     int originalnum = n;
     int reversenum = 0, remainder;

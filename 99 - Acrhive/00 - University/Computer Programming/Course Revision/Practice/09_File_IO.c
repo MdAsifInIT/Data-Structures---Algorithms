@@ -24,17 +24,15 @@ int main()
     {
         int len = strlen(word);
 
-        // Remove punctuation from the end
         while (len > 0 && ispunct((unsigned char)word[len - 1]))
         {
             word[len - 1] = '\0';
             len--;
         }
 
-        // Ensure we don't access an empty string
         if (len > 0)
         {
-            char letter = word[len - 1]; // Get the last character after punctuation removal
+            char letter = word[len - 1];
 
             if (strchr(vowels, letter) != NULL)
             {
@@ -43,8 +41,7 @@ int main()
         }
     }
 
-    fclose(fp); // Close the file after reading
-
+    fclose(fp);
     printf("%d words end with vowels.\n", count);
 
     return 0;
