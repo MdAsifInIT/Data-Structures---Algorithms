@@ -21,7 +21,7 @@ void hpir(int n)
     {
         for (int j = 1; j <= i; j++)
         {
-            printf("%d", i);
+            printf("%d", i+j);
         }
         printf("\n");
     }
